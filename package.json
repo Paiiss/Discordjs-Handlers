@@ -1,0 +1,17 @@
+{
+    "name": "commandhandler",
+    "version": "1.0.0",
+    "description": "Code by pais",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["bot", "discordjs"],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ascii-table": "0.0.9",
+        "discord.js": "^12.2.0",
+        "nodemon": "^2.0.13"
+    }
+}
